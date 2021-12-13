@@ -55,5 +55,5 @@ bot.ws.on("INTERACTION_CREATE", async (interaction) => {
 })
 
 require("./src/loader.js")(bot)
-keepAlive()
+// keepAlive()
 bot.login(bot.config.discord.token)
