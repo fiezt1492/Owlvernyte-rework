@@ -1,0 +1,26 @@
+{
+  "name": "Owlvernyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-menu": "^2.3.1",
+    "discord.js-minesweeper": "^1.0.6",
+    "discordjs-activity": "^1.4.0",
+    "express": "^4.17.1",
+    "got": "^11.8.3",
+    "mongodb": "^4.2.1",
+    "src": "^1.1.2"
+  }
+}
